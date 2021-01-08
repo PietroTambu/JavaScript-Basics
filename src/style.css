@@ -1,5 +1,5 @@
 body{
-    background-color: #e3e3e3;
+    background-color: #eeeeee;
 }
 
 .div-title{
@@ -19,12 +19,33 @@ body{
     width: 100%;
     text-align: center;
 }
-button{
+
+button {
+    display: inline-block;
+    padding: 15px 25px;
     font-size: 4vw;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #a1a1a1;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(97, 97, 97);
     margin: 15px;
     min-width: 8vw;
     height: 8vw;
 }
+  
+button:hover {background-color:#808080}
+  
+button:active {
+    background-color: #d1d1d1;
+    box-shadow: 0 5px  rgb(97, 97, 97);
+    transform: translateY(4px);
+}
+
 
 #counter{
     font-size: 8vw;
