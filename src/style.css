@@ -22,9 +22,10 @@ body{
 button{
     font-size: 4vw;
     margin: 15px;
-    width: 8vw;
+    min-width: 8vw;
     height: 8vw;
 }
+
 #counter{
     font-size: 8vw;
 }
