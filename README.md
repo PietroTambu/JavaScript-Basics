@@ -8,7 +8,7 @@ Ho aggiunto webpack per una migliore suddivisione dei file. :white_check_mark:
 
 > Invece che usare onclick, avresti potuto usare addEventListener  
 
-Ho eliminato gli attributi onclick sostituendoli con addEventListener :white_check_mark:
+Ho eliminato gli attributi onClick sostituendoli con addEventListener :white_check_mark:
 
 > avrei preferito che usassi degli operatori unari con funzioni dedicate.  
 
