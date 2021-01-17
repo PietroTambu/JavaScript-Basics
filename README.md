@@ -12,7 +12,7 @@ Ho eliminato gli attributi onClick sostituendoli con addEventListener :white_che
 
 > avrei preferito che usassi degli operatori unari con funzioni dedicate.  
 
-Decrease / Increase / Reset sono eseguiti all'interno di funcioni dedicate (ho utilizzato gli operatori unari) :white_check_mark:
+Decrease / Increase / Reset sono eseguiti all'interno di funzioni dedicate (ho utilizzato gli operatori unari) :white_check_mark:
  
 
 http://pietro-tamburini.epizy.com/javascript-basics/
