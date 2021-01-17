@@ -1,6 +1,10 @@
 import './style.css';
 
 window.onload = () => {
+    if(localStorage.getItem('counter') === null){
+        localStorage.setItem('counter', 0 );
+    }
+
     document.getElementById("counter").innerHTML = localStorage.getItem('counter');
 
     document.getElementById("decrease").addEventListener("click", () => {
