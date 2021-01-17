@@ -7,9 +7,11 @@ Counter.
 Ho aggiunto webpack per una migliore suddivisione dei file. :white_check_mark:
 
 > Invece che usare onclick, avresti potuto usare addEventListener  
+
 :white_check_mark:
 
-> avrei preferito che usassi degli operatori unari con funzioni dedicate.
+> avrei preferito che usassi degli operatori unari con funzioni dedicate.  
+
 :white_check_mark:
  
 
